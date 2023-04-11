@@ -8,6 +8,10 @@ It is crucial to respect privacy and adhere to any applicable laws and regulatio
 
 # Installation and Use
 
+```
 pip install -r requirements.txt
+```
 
+```
 python3 pydehashedscraper.py
+```
